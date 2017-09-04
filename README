@@ -1,0 +1,2 @@
+These are the functions for my Raspberry Pi [OpenFaaS](https://github.com/alexellis/faas) cluster.
+They're based on the samples from https://github.com/alexellis/faas-cli
